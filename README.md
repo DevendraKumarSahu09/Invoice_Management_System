@@ -6,7 +6,7 @@ A **full-stack Invoice Management System** built with Django REST Framework for 
 ![Built with React](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
 ![Deployed on Vercel](https://img.shields.io/badge/Deployment-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)  
 
-🔗 **[Live Demo]()**  
+🔗 **[Live Demo](https://invoice-management-system-by-devendra.vercel.app/)**  
 
 ---
 
@@ -159,7 +159,7 @@ A **full-stack Invoice Management System** built with Django REST Framework for 
 
 | **Frontend**       | **Backend**        |  
 |---------------------|--------------------|  
-| [Frontend on Vercel](https://invoice-mgmt-system-frontend-tanjul.vercel.app/) | [Backend on Vercel](https://invoice-mgmt-system-backend-tanjul.vercel.app/) |  
+| [Frontend on Vercel](https://invoice-management-system-by-devendra.vercel.app/) | [Backend on Vercel](https://invoice-management-system-three.vercel.app/) |  
 
 ---
 
