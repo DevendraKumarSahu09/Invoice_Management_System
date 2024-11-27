@@ -6,7 +6,7 @@ A **full-stack Invoice Management System** built with Django REST Framework for 
 ![Built with React](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
 ![Deployed on Vercel](https://img.shields.io/badge/Deployment-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)  
 
-🔗 **[Live Demo](https://invoice-mgmt-system-frontend-tanjul.vercel.app/)**  
+🔗 **[Live Demo]()**  
 
 ---
 
